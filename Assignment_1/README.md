@@ -2,22 +2,18 @@
 
 * 原圖
 
-!(https://drive.google.com/open?id=0BxNqx7_yoPH2dGI5amJ1RUdVQzA)
+!(https://upload.cc/i/uvnMVb.jpg)
 
 
 
 * 灰階
 
-!(https://drive.google.com/open?id=0BxNqx7_yoPH2N3JiZEh1cDVtazA)
+!(https://upload.cc/i/CfoY64.jpg)
 
 
 
 * 黑白
 
-!(https://drive.google.com/open?id=0BxNqx7_yoPH2SDZWZFhuT19rU2c)
+!(https://upload.cc/i/WS8gwR.jpg)
 
-
-
-
-![](http://pics20.yamedia.tw/41/userfile/c/chingfeng0801/album/15219fdb346d33.jpg)
 
