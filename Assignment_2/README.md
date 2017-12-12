@@ -3,7 +3,7 @@
 
 * 以下為大致的流程圖
 
-![] (https://upload.cc/i/E8YU7h.jpg)
+![](https://upload.cc/i/E8YU7h.jpg)
 
 * 多乘了cos函數的聲音與之前只有level2+level4的聲音比起來較高也較亮，有點像遊戲中的音效。
 
