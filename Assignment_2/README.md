@@ -1,33 +1,12 @@
-# -MMS2017FALL
 
-* Bullet item 1
-* Bullet item 2
-* Bullet item 3
+* 我的程式為用鍵盤輸入簡譜，空白鑑作為空拍以字串讀入。再用已經宣告好的頻率做轉換，來完成頻率陣列。
 
-1. Numbered item 1
-2. Numbered item 2
-3. Numbered item 3
+* 以下為大致的流程圖
+![Img](https://imgur.com/a/qdMiV)
 
-![Img](https://www.google.com.tw/search?q=NDHU&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjOy82btInXAhVPObwKHZvaBP4Q_AUICigB&biw=1637&bih=860&dpr=1.13#imgrc=QKIT3XZf8FTUdM:)
+* 多乘了cos函數的聲音與之前只有level2+level4的聲音比起來較高也較亮，有點像遊戲中的音效。
 
-
-<table>
-    <tr>
-        <td>Title</td>
-        <td>Column Title 1</td>
-        <td>Column Title 1</td>
-        <td>Column Title 1</td>
-    </tr>
-    <tr>
-        <td>Row Title 1</td>
-        <td>blah</td>
-        <td>blah</td>
-        <td>blah</td>
-    </tr>
-    <tr>
-        <td>Row Title 2</td>
-        <td>blah</td>
-        <td>blah</td>
-        <td>blah</td>
-    </tr>
-</table>
+* 這次的作業在輸出檔案及繪製波型有些卡住，也還在努力中...。
+  還有有關音樂的方面也不是很熟悉，所以也對音譜及樂理做了些功課，目前也有成功寫出個半成品。
+  
+* 此次作業多學到了有關音樂方面的新知識，也複習了之前學過物理中有關波的部分，也對上課中有講到的聲音量化方面更加熟悉了。
