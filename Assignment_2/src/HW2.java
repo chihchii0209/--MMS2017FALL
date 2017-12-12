@@ -23,6 +23,11 @@ public class HW2 {
 					262, 294, 330, 349,
 					392, 392, 392} ;
 		
+		float[] f2 = {98, 82, 82, 0,
+				87, 73, 73, 0,
+				65, 73, 82, 87,
+				98, 98, 98} ;
+		
 	    AudioFormat af = new AudioFormat( FS , 8, 1, true, false );
 	    SourceDataLine sdl = AudioSystem.getSourceDataLine( af );
 	    
@@ -37,7 +42,8 @@ public class HW2 {
 	    for(int j =0 ; j<15 ; j++){
 	    	for( int i = 0 ; i < T * FS /10 ; i++ ) {
 	    	
-	    		double angle = (i / FS)  * f4[j]  * 2.0 * Math.PI ;
+	    		double angle = (i / FS)  * (f2[j] + f4[j])/2  * 2.0 * Math.PI ;
+	    		
 
 	    		buf[ 0 ] = (byte )( Math.sin(angle) * 100 );
 	    	
@@ -49,7 +55,6 @@ public class HW2 {
 	    
 	    sdl.drain();
 	    sdl.stop();
-	    out.close();
 	}
 
 }
