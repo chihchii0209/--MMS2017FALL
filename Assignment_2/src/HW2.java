@@ -61,7 +61,7 @@ public class HW2 {
 	    	for( int i = 0 ; i < T * FS /10 ; i++ ) {
 	    	
 	    		double angle = (i / FS)  * (sample[j]+sample2[j])/2  * 2.0 * Math.PI ;
-	    		double cos_angle = (i / FS)  * 800  * 2.0 * Math.PI ;
+	    		double cos_angle = (i / FS)  * 500  * 2.0 * Math.PI ;
 	    		
 	    		buf[ 0 ] = (byte )(Math.cos(cos_angle)*(Math.sin(angle) * 100 ));
 	    	
