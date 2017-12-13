@@ -28,9 +28,9 @@ public class HW2 {
 		float[] f2 = {65, 73, 82,
 					87, 98, 110, 124} ;
 		
-		float[] sample = new float[50];
-		float[] sample2 = new float[50] ;
-		float T = 5 ;
+		float[] sample = new float[100];
+		float[] sample2 = new float[100] ;
+		float T = 4 ;
 		
 		for(int i=0 ; i<input.length() ; i++){
 			if(input.charAt(i)==' '){
@@ -61,8 +61,9 @@ public class HW2 {
 	    	for( int i = 0 ; i < T * FS /10 ; i++ ) {
 	    	
 	    		double angle = (i / FS)  * (sample[j]+sample2[j])/2  * 2.0 * Math.PI ;
-
-	    		buf[ 0 ] = (byte )((Math.sin(angle)*(Math.sin(angle)) * 100 ));
+	    		double cos_angle = (i / FS)  * 800  * 2.0 * Math.PI ;
+	    		
+	    		buf[ 0 ] = (byte )(Math.cos(cos_angle)*(Math.sin(angle) * 100 ));
 	    	
 
 	    		sdl.write( buf, 0, 1 );
