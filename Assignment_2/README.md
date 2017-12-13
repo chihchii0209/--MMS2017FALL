@@ -6,15 +6,15 @@
 
 ![](https://upload.cc/i/E8YU7h.jpg)
 
-* 由於我的輸出還未完成，所以先暫時用手機的錄音來呈現我大致的結果，以下為音檔連結
-  
-  1. ![sin(2πft) , f = Small Bee (level4)](http://picosong.com/wFU87/)
+* 由於我的輸出還未完成，所以先暫時用手機的錄音來呈現我大致的結果，以下為音檔連結 
+
+  1. ![sin(2πft) , f = Small Bee (level4)](http://picosong.com/wFU87/)
   
   2. ![sin(2πft) , f = Small Bee (level2 +level4)](http://picosong.com/wFUEu/)
-    
+  
   3. ![multiply cos(2πft) , f = 100 Hz](http://picosong.com/wFU8s/)
   
-  4. ![multiply cos(2πft) , f = 500 Hz](http://picosong.com/wFU8n/)
+  4. ![multiply cos(2πft) , f = 500 Hz](http://picosong.com/wFU8n/)
   
   5. ![multiply cos(2πft) , f = 800 Hz  , (有點刺耳)](http://picosong.com/wFU8P/)
 
