@@ -12,7 +12,7 @@ import org.opencv.core.Mat;
 	static final int N = 16;
 	static final int p = 15; 
 	
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) {
         
 	System.loadLibrary(Core.NATIVE_LIBRARY_NAME); 
 	
