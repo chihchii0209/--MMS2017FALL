@@ -143,8 +143,8 @@ public class SS_2D {
         }
         SNR = num/den;
         
+        
         return SNR ;
     }
    
-
 }
