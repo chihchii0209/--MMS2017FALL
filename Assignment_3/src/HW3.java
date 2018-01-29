@@ -20,6 +20,7 @@ import org.opencv.core.Mat;
    	Mat TwoD_img = Timg.clone() ;
    	
     SS(Rimg,Timg,SS_img);
+    TwoD(Rimg,Timg,SS_img);
 
 
 	}
