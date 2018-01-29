@@ -1,25 +1,23 @@
+* reference :
 
-* 我的程式為用鍵盤輸入簡譜，空白鑑作為空拍以字串讀入。再用已經宣告好的頻率做轉換，來完成頻率陣列。
-  ![](https://upload.cc/i/t3Zn1p.jpg)
+![](https://s1.imgs.cc/img/aaaaaIZi4.jpg?_w=1200)
 
-* 以下為程式流程圖
+* target :
 
-![](https://upload.cc/i/E8YU7h.jpg)
+![](https://s1.imgs.cc/img/aaaaaIZi0.jpg?_w=1200)
 
-* 由於我的輸出還未完成，所以先暫時用手機的錄音來呈現我大致的結果，以下為音檔連結 
+* sequential search_i2p :
 
-1. [sin(2πft) , f = Small Bee (level4)](http://picosong.com/wFU87/)
+![](https://s1.imgs.cc/img/aaaaaIZju.jpg?_w=1200)
 
-2. [sin(2πft) , f = Small Bee (level2 +level4)](http://picosong.com/wFUEu/)
+* 2D logarithm search_i2p :
 
-3. [multiply cos(2πft) , f = 100 Hz](http://picosong.com/wFU8s/)
+![](https://s1.imgs.cc/img/aaaaaIZjv.jpg?_w=1200)
 
-4. [multiply cos(2πft) , f = 500 Hz](http://picosong.com/wFU8n/)
+* 以下為SNR及時間結果
 
-5. [multiply cos(2πft) , f = 800 Hz (有點刺耳)](http://picosong.com/wFU8P/)
-          
+![](https://s1.imgs.cc/img/aaaaaIZi1.jpg?_w=1200)
 
-* 這次的作業在輸出檔案及繪製波型有些卡住，也還在努力中。
-  還有有關音樂的方面也不是很熟悉，所以也對音譜及樂理做了些功課，目前僅有成功寫出個半成品。
-  
-* 此次作業多學到了有關音樂方面的新知識，也複習了之前學過物理中有關波的部分，對上課中有講到的聲音量化方面也更加熟悉，作報告時也找到了許多實用的線上資源。
+與sequential search相比2D logarithm search雖然SNR較小，但由於是對數的等級，所以時間的差距非常大。在講究時間快速時，我認為品質上一點點的差異完全是可以不用在意的。
+
+* 這次作業我在2D logarithm search有些小卡關，再加上本身對java不太熟悉，所以有去請教同學。在完全了解程式中語法及邏輯內容後，有自己再重寫過一次。再詢問同學前，也自己嘗試了許多以前沒有接觸過的語法，雖然最後不管用，但還是學到了很多以前不熟悉的東西 ! 也謝謝老師這學期的授課 !
